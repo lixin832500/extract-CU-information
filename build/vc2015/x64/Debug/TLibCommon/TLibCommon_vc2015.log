@@ -1,0 +1,33 @@
+﻿  libmd5.c
+  TComYuv.cpp
+..\..\source\Lib\TLibCommon\TComYuv.cpp(502): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\..\source\Lib\TLibCommon\TComYuv.cpp(511): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  TComWeightPrediction.cpp
+  TComTU.cpp
+  TComTrQuant.cpp
+  TComSlice.cpp
+  TComSampleAdaptiveOffset.cpp
+  TComRom.cpp
+  TComRdCostWeightPrediction.cpp
+  TComRdCost.cpp
+  TComPrediction.cpp
+  TComPicYuvMD5.cpp
+  TComPicYuv.cpp
+  TComPicSym.cpp
+  TComPic.cpp
+  TComPattern.cpp
+  TComMotionInfo.cpp
+  TComLoopFilter.cpp
+  TComInterpolationFilter.cpp
+  TComDataCU.cpp
+  TComChromaFormat.cpp
+  Generating Code...
+  Compiling...
+  TComCABACTables.cpp
+  TComBitStream.cpp
+  SEI.cpp
+  Debug.cpp
+  ContextModel3DBuffer.cpp
+  ContextModel.cpp
+  Generating Code...
+  TLibCommon_vc2015.vcxproj -> C:\Workspace\cpp\HM-16.9 - revision\build\\vc2015\x64\Debug\TLibCommon\TLibCommon.lib

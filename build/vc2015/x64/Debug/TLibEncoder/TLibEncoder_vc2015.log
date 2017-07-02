@@ -1,0 +1,69 @@
+﻿  WeightPredAnalysis.cpp
+  TEncTop.cpp
+  TEncSlice.cpp
+  TEncSearch.cpp
+  TEncSbac.cpp
+  TEncSampleAdaptiveOffset.cpp
+  TEncRateCtrl.cpp
+  TEncPreanalyzer.cpp
+  TEncPic.cpp
+  TEncGOP.cpp
+  TEncEntropy.cpp
+  TEncCu.cpp
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(291): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(292): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(293): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(294): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(295): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(296): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(297): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(298): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(310): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(311): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(312): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(313): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(314): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(315): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(316): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(317): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(334): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(335): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(336): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(337): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(338): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(339): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(340): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(341): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(353): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(354): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(355): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(356): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(357): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(358): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(359): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(360): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(377): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(378): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(379): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(380): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(381): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(382): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(383): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(384): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(396): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(397): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(398): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(399): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(400): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(401): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(402): warning C4129: ',': unrecognized character escape sequence
+..\..\source\Lib\TLibEncoder\TEncCu.cpp(403): warning C4129: ',': unrecognized character escape sequence
+  TEncCavlc.cpp
+  TEncBinCoderCABACCounter.cpp
+  TEncBinCoderCABAC.cpp
+  SyntaxElementWriter.cpp
+  SEIwrite.cpp
+  SEIEncoder.cpp
+  NALwrite.cpp
+  Generating Code...
+  TLibEncoder_vc2015.vcxproj -> C:\Workspace\cpp\HM-16.9 - revision\build\\vc2015\x64\Debug\TLibEncoder\TLibEncoder.lib
